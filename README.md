@@ -2,8 +2,6 @@
 
 Esse repositório contém a arquitetura proposta o projeto Solar Hub. Trabalho apresentado à disciplina de Arquitetura da Escolha do curso de Arquitetura de Soluções da FIAP, Prof. Leonardo Pinho.
 
-![Solar Hub](assets/solar_hub_capa.png)
-
 ## Conteúdo importante:
 
 - Projeto Solar Hub (Texto Final): [solar_hub_texto_trabalho_final](solar_hub_texto_trabalho_final.pdf)
@@ -11,4 +9,4 @@ Esse repositório contém a arquitetura proposta o projeto Solar Hub. Trabalho a
 - Vídeo de apresentação do Projeto: 
 - Imagens utilizadas no texto e apresentação: [Assets](assets)
 
-## Texto
+![Solar Hub](assets/solar_hub_capa.png)
